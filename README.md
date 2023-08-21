@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adyasish01
+- 👋 Hi, I’m @Adyasish
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Full-Stack Development at Career-X Club
 - 💞️ I’m looking for Internships based on Full-Stack Development
